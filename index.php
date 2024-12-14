@@ -113,9 +113,6 @@ foreach ($_SESSION['tasks'] as $index => $task) {
     }
     ?>
 
-
-
-
     </div>
 </body>
 </html>
